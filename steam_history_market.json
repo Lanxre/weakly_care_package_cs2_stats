@@ -1,0 +1,361 @@
+[
+    {
+        "name": "Kilowatt Case",
+        "price": 0.61,
+        "currency": "USD",
+        "listed_on": "21 Dec 2024",
+        "acted_on": "21 Dec 2024"
+    },
+    {
+        "name": "Fracture Case",
+        "price": 0.26,
+        "currency": "USD",
+        "listed_on": "26 Dec 2024",
+        "acted_on": "26 Dec 2024"
+    },
+    {
+        "name": "Fracture Case",
+        "price": 0.28,
+        "currency": "USD",
+        "listed_on": "2 Jan 2025",
+        "acted_on": "2 Jan 2025"
+    },
+    {
+        "name": "Fracture Case",
+        "price": 0.31,
+        "currency": "USD",
+        "listed_on": "17 Jan 2025",
+        "acted_on": "17 Jan 2025"
+    },
+    {
+        "name": "Recoil Case",
+        "price": 0.21,
+        "currency": "USD",
+        "listed_on": "22 Jan 2025",
+        "acted_on": "22 Jan 2025"
+    },
+    {
+        "name": "Dreams & Nightmares Case",
+        "price": 1.75,
+        "currency": "USD",
+        "listed_on": "27 Jan 2025",
+        "acted_on": "28 Jan 2025"
+    },
+    {
+        "name": "Fracture Case",
+        "price": 0.35,
+        "currency": "USD",
+        "listed_on": "5 Feb 2025",
+        "acted_on": "5 Feb 2025"
+    },
+    {
+        "name": "Fracture Case",
+        "price": 0.40,
+        "currency": "USD",
+        "listed_on": "14 Feb 2025",
+        "acted_on": "14 Feb 2025"
+    },
+    {
+        "name": "Dreams & Nightmares Case",
+        "price": 1.75,
+        "currency": "USD",
+        "listed_on": "14 Feb 2025",
+        "acted_on": "15 Feb 2025"
+    },
+    {
+        "name": "Kilowatt Case",
+        "price": 0.77,
+        "currency": "USD",
+        "listed_on": "21 Feb 2025",
+        "acted_on": "21 Feb 2025"
+    },
+    {
+        "name": "Kilowatt Case",
+        "price": 0.80,
+        "currency": "USD",
+        "listed_on": "26 Feb 2025",
+        "acted_on": "27 Feb 2025"
+    },
+    {  
+        "name": "Dreams & Nightmares Case",
+        "price": 1.8,
+        "currency": "USD",
+        "listed_on": "20 Mar 2025",
+        "acted_on": "20 Mar 2025"
+    },
+    {
+        "name": "Kilowatt Case",
+        "price": 0.75,
+        "currency": "USD",
+        "listed_on": "27 Mar 2025",
+        "acted_on": "27 Mar 2025"
+    },
+    {
+        "name": "Fracture Case",
+        "price": 0.36,
+        "currency": "USD",
+        "listed_on": "27 Mar 2025",
+        "acted_on": "27 Mar 2025"
+    },
+    {
+        "name": "Kilowatt Case",
+        "price": 0.74,
+        "currency": "USD",
+        "listed_on": "3 Apr 2025",
+        "acted_on": "3 Apr 2025"
+    },
+    {
+        "name": "Kilowatt Case",
+        "price": 0.80,
+        "currency": "USD",
+        "listed_on": "3 Apr 2025",
+        "acted_on": "4 Apr 2025"
+    },
+    {
+        "name": "Revolution Case",
+        "price": 0.50,
+        "currency": "USD",
+        "listed_on": "24 Apr 2025",
+        "acted_on": "25 Apr 2025"
+    },
+    {
+        "name": "Revolution Case",
+        "price": 0.53,
+        "currency": "USD",
+        "listed_on": "23 May 2025",
+        "acted_on": "23 May 2025"
+    },
+    {
+        "name": "Kilowatt Case",
+        "price": 0.5,
+        "currency": "USD",
+        "listed_on": "23 May 2025",
+        "acted_on": "23 May 2025"
+    },
+
+    {
+        "name": "USP-S | Forest Leaves",
+        "price": 0.15,
+        "currency": "USD",
+        "listed_on": "23 May 2025",
+        "acted_on": "23 May 2025"
+    },
+    {
+        "name": "Fracture Case",
+        "price": 0.30,
+        "currency": "USD",
+        "listed_on": "23 May 2025",
+        "acted_on": "23 May 2025"
+    },
+    {
+        "name": "Recoil Case",
+        "price": 0.23,
+        "currency": "USD",
+        "listed_on": "23 May 2025",
+        "acted_on": "23 May 2025"
+    },
+    {
+        "name": "Kilowatt Case",
+        "price": 0.53,
+        "currency": "USD",
+        "listed_on": "29 May 2025",
+        "acted_on": "29 May 2025"
+    },
+    {
+        "name": "Kilowatt Case",
+        "price": 0.54,
+        "currency": "USD",
+        "listed_on": "6 Jun 2025",
+        "acted_on": "6 Jun 2025"
+    },
+    {
+        "name": "Revolution Case",
+        "price": 0.53,
+        "currency": "USD",
+        "listed_on": "12 Jun 2025",
+        "acted_on": "12 Jun 2025"
+    },
+
+    {
+        "name": "Revolution Case",
+        "price": 0.55,
+        "currency": "USD",
+        "listed_on": "19 Jun 2025",
+        "acted_on": "19 Jun 2025"
+    },
+    {
+        "name": "Fracture Case",
+        "price": 0.36,
+        "currency": "USD",
+        "listed_on": "26 Jun 2025",
+        "acted_on": "26 Jun 2025"
+    },
+    {
+        "name": "Galil AR | Acid Dart",
+        "price": 0.30,
+        "currency": "USD",
+        "listed_on": "26 Jun 2025",
+        "acted_on": "26 Jun 2025"
+    },
+    {
+        "name": "Dreams & Nightmares Case",
+        "price": 1.90,
+        "currency": "USD",
+        "listed_on": "3 Jul 2025",
+        "acted_on": "3 Jul 2025"
+    },
+    {
+        "name": "M4A1-S | Rose Hex",
+        "price": 4.53,
+        "currency": "USD",
+        "listed_on": "3 Jul 2025",
+        "acted_on": "3 Jul 2025"
+    },
+    {
+        "name": "Recoil Case",
+        "price": 0.30,
+        "currency": "USD",
+        "listed_on": "10 Jul 2025",
+        "acted_on": "10 Jul 2025"
+    },
+    {
+        "name": "Recoil Case",
+        "price": 0.34,
+        "currency": "USD",
+        "listed_on": "17 Jul 2025",
+        "acted_on": "17 Jul 2025"
+    },
+    {
+        "name": "Fracture Case",
+        "price": 0.48,
+        "currency": "USD",
+        "listed_on": "24 Jul 2025",
+        "acted_on": "24 Jul 2025"
+    },
+    {
+        "name": "Kilowatt Case",
+        "price": 0.61,
+        "currency": "USD",
+        "listed_on": "31 Jul 2025",
+        "acted_on": "31 Jul 2025"
+    },
+    {
+        "name": "Kilowatt Case",
+        "price": 0.50,
+        "currency": "USD",
+        "listed_on": "4 Sep 2025",
+        "acted_on": "5 Sep 2025"
+    },
+    {
+        "name": "Revolution Case",
+        "price": 0.54,
+        "currency": "USD",
+        "listed_on": "11 Sep 2025",
+        "acted_on": "12 Sep 2025"
+    },
+    {
+        "name": "Recoil Case",
+        "price": 0.33,
+        "currency": "USD",
+        "listed_on": "18 Sep 2025",
+        "acted_on": "18 Sep 2025"
+    },
+    {
+        "name": "Recoil Case",
+        "price": 0.33,
+        "currency": "USD",
+        "listed_on": "27 Sep 2025",
+        "acted_on": "27 Sep 2025"
+    },
+    {
+        "name": "Recoil Case",
+        "price": 0.33,
+        "currency": "USD",
+        "listed_on": "27 Sep 2025",
+        "acted_on": "27 Sep 2025"
+    },
+    {
+        "name": "Recoil Case",
+        "price": 0.33,
+        "currency": "USD",
+        "listed_on": "27 Sep 2025",
+        "acted_on": "27 Sep 2025"
+    },
+    {
+        "name": "Kilowatt Case",
+        "price": 0.47,
+        "currency": "USD",
+        "listed_on": "28 Sep 2025",
+        "acted_on": "28 Sep 2025"
+    },
+    {
+        "name": "XM1014 | Gum Wall Camo",
+        "price": 0.29,
+        "currency": "USD",
+        "listed_on": "28 Sep 2025",
+        "acted_on": "28 Sep 2025"
+    },
+    {
+        "name": "Recoil Case",
+        "price": 0.34,
+        "currency": "USD",
+        "listed_on": "2 Oct 2025",
+        "acted_on": "2 Oct 2025"
+    },
+    {
+        "name": "Dreams & Nightmares Case",
+        "price": 1.70,
+        "currency": "USD",
+        "listed_on": "20 Oct 2025",
+        "acted_on": "20 Oct 2025"
+    },
+    {
+        "name": "Recoil Case",
+        "price": 0.40,
+        "currency": "USD",
+        "listed_on": "23 Oct 2025",
+        "acted_on": "23 Oct 2025"
+    },
+    {
+        "name": "Revolution Case",
+        "price": 0.50,
+        "currency": "USD",
+        "listed_on": "30 Oct 2025",
+        "acted_on": "1 Nov 2025"
+    },
+    {
+        "name": "Sealed Genesis Terminal",
+        "price": 0.72,
+        "currency": "USD",
+        "listed_on": "6 Nov 2025",
+        "acted_on": "6 Nov 2025"
+    },
+    {
+        "name": "Sealed Genesis Terminal",
+        "price": 0.72,
+        "currency": "USD",
+        "listed_on": "6 Nov 2025",
+        "acted_on": "6 Nov 2025"
+    },
+    {
+        "name": "Sealed Genesis Terminal",
+        "price": 0.72,
+        "currency": "USD",
+        "listed_on": "6 Nov 2025",
+        "acted_on": "6 Nov 2025"
+    },
+    {
+        "name": "Sealed Genesis Terminal",
+        "price": 0.80,
+        "currency": "USD",
+        "listed_on": "24 Nov 2025",
+        "acted_on": "24 Nov 2025"
+    },
+    {
+        "name": "Revolution Case",
+        "price": 0.46,
+        "currency": "USD",
+        "listed_on": "25 Nov 2025",
+        "acted_on": "25 Nov 2025"
+    }
+]
