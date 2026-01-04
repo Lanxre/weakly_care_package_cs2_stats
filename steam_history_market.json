@@ -345,17 +345,59 @@
         "acted_on": "6 Nov 2025"
     },
     {
-        "name": "Sealed Genesis Terminal",
-        "price": 0.80,
+        "name": "Revolution Case",
+        "price": 0.35,
         "currency": "USD",
-        "listed_on": "24 Nov 2025",
-        "acted_on": "24 Nov 2025"
+        "listed_on": "18 Dec 2025",
+        "acted_on": "19 Dec 2025"
+    },
+    {
+        "name": "Recoil Case",
+        "price": 0.34,
+        "currency": "USD",
+        "listed_on": "18 Dec 2025",
+        "acted_on": "18 Dec 2025"
     },
     {
         "name": "Revolution Case",
-        "price": 0.46,
+        "price": 0.35,
         "currency": "USD",
-        "listed_on": "25 Nov 2025",
-        "acted_on": "25 Nov 2025"
+        "listed_on": "22 Dec 2025",
+        "acted_on": "22 Dec 2025"
+    },
+    {
+        "name": "Revolution Case",
+        "price": 0.35,
+        "currency": "USD",
+        "listed_on": "22 Dec 2025",
+        "acted_on": "22 Dec 2025"
+    },
+    {
+        "name": "Sealed Genesis Terminal",
+        "price": 0.35,
+        "currency": "USD",
+        "listed_on": "22 Dec 2025",
+        "acted_on": "23 Dec 2025"
+    },
+    {
+        "name": "Kilowatt Case",
+        "price": 0.30,
+        "currency": "USD",
+        "listed_on": "18 Dec 2025",
+        "acted_on": "24 Dec 2025"
+    },
+    {
+        "name": "Recoil Case",
+        "price": 0.35,
+        "currency": "USD",
+        "listed_on": "25 Dec 2025",
+        "acted_on": "25 Dec 2025"
+    },
+    {
+        "name": "Kilowatt Case",
+        "price": 0.25,
+        "currency": "USD",
+        "listed_on": "1 Jan 2026",
+        "acted_on": "1 Jan 2026"
     }
 ]

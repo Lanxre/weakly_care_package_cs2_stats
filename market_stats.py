@@ -6,8 +6,6 @@ from typing import List, Dict, Tuple, defaultdict
 from enum import StrEnum
 from dataclasses import dataclass
 from datetime import datetime
-from itertools import groupby
-from operator import attrgetter
 from json import load
 
 FILE_NAME = os.path.join(os.path.dirname(__file__), "steam_history_market.json")
@@ -126,12 +124,10 @@ def plot_total_price_by_month(total_price_by_month: Dict[str, float]):
 
 def plot_total_price_by_name(total_price: float, total_price_by_name: Dict[str, Tuple[float, int]]) -> None:
     names = list(total_price_by_name.keys())
-    prices = [v[0] for v in total_price_by_name.values()]
     counts = [v[1] for v in total_price_by_name.values()]
 
     fig, ax1 = plt.subplots(figsize=(10, 6))
 
-    bars = ax1.bar(names, prices, color='skyblue', alpha=0.7, label='Total Price')
     ax1.set_ylabel('Total Price (USD)', color='blue')
     ax1.set_xlabel('Item Name')
     ax1.tick_params(axis='y', labelcolor='blue')
@@ -142,7 +138,7 @@ def plot_total_price_by_name(total_price: float, total_price_by_name: Dict[str, 
     ax2.set_ylabel('Count', color='red')
     ax2.tick_params(axis='y', labelcolor='red')
 
-    plt.title(f'Total Price and Count per Item')
+    plt.title('Total Price and Count per Item')
     plt.text(0.95, 0.95, f'Total Price: {total_price:.2f} {Currency.USD}', 
              horizontalalignment='right', verticalalignment='top', 
              transform=ax1.transAxes, fontsize=12, bbox=dict(facecolor='white', alpha=0.5))
